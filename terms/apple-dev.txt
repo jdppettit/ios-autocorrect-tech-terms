@@ -1,0 +1,22 @@
+# Apple platform development
+Xcode
+xcodebuild
+xcrun
+xcconfig
+SwiftUI
+UIKit
+AppKit
+SwiftData
+CoreData
+CloudKit
+TestFlight
+CocoaPods
+SPM
+plist
+plists
+macOS
+iOS
+iPadOS
+watchOS
+tvOS
+visionOS

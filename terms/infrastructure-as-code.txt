@@ -1,0 +1,17 @@
+# Infrastructure as code and config management
+Terraform
+tfvars
+tfstate
+OpenTofu
+Terragrunt
+Pulumi
+Ansible
+ansible-playbook
+SaltStack
+Vagrant
+Crossplane
+CloudFormation
+CDK
+Bicep
+idempotent
+idempotency
